@@ -1,0 +1,45 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+ 
+}
+p{
+    padding: 2px;
+}
+
+
+li{
+    
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+h4{
+    font-family: monospace;
+    color: rgba(192, 185, 185, 0.63);
+    text-align: center;
+}
+h2{
+    font-family: monospace;
+    color:grey;
+    text-align: center;
+}
+.textcenter{
+    text-align: center;
+    
+    
+}
+.textcenter1{
+    text-align: center;
+    
+    
+}
+h5{
+    font-family: monospace;
+    color: rgb(14, 11, 11);
+    margin-left: 75px;
+}
+div.textcenter1>img{
+    width: 32%;
+}

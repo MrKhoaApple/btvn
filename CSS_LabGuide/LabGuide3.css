@@ -1,0 +1,27 @@
+h2 {
+    color: darkorchid;
+}
+p.title::first-letter{
+    font-size: 150%;
+    color: rgb(183, 121, 214);
+}
+.autum{
+    font-style: oblique;
+    font-size: 120%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 2rem;
+}
+i {
+    color: rgb(4, 119, 4);
+}
+b1 {
+    color: red;
+}
+
+li {
+    color: rgb(233, 73, 55);
+}
+p.letter{
+    color: rgb(103, 192, 80);
+}
